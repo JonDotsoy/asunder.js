@@ -1,0 +1,14 @@
+{
+  "name": "gulp-js-bundle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A method to build a JavaScript master file.",
+  "main": "lib/bundler.js",
+  "scripts": {},
+  "author": "Jonathan Delgado <hi@jon.soy>",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.1.2"
+  }
+}
