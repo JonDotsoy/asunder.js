@@ -1,0 +1,6 @@
+doc/
+.git/
+node_modules/
+.gitignore
+.eslintrc.js
+.npmignore

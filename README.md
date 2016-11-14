@@ -26,3 +26,11 @@ gulp.task("script", () =>
 // www/app.requeriments.js
 ```
 
+
+## What up? In the behaviour.
+### OLD
+![](doc/assets/images/oldeprogress.png)
+
+### NOW
+![](doc/assets/images/newprogress.png)
+![](doc/assets/images/newresults.png)
