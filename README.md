@@ -1,22 +1,22 @@
-# JS-Bundler
+# asunder.js
 A transform to build javascript files in the browser extending all dependencies in other file.
 
 > Inspired on browserify but with all style of Gulp.
 
 ```javascript
 const gulp = require("gulp")
-const jsBundler = require("js-bundler").jsBundler
+const asunder = require("asunder.js").asunder
 
 gulp.task("script", () =>
   gulp.src("src/scripts/**/*.js")
-  .pipe(jsBundler({
+  .pipe(asunder({
     modules: [
       "react",
       "react-render",
       "debug",
       "lodash",
       "jquery"
-    ]
+    ],
   }))
   .pipe(gulp.dest("www"))
 )
