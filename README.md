@@ -33,9 +33,9 @@ gulp.task("script", () =>
 
 ## What up? In the behaviour.
 ### OLD
-![](doc/assets/images/oldeprogress.png)
+![](https://github.com/JonDotsoy/asunder.js/raw/develop/doc/assets/images/oldeprogress.png)
 
 ### NOW
-![](doc/assets/images/newprogress.png)
+![](https://github.com/JonDotsoy/asunder.js/raw/develop/doc/assets/images/newprogress.png)
 
-![](doc/assets/images/newresults.png)
+![](https://github.com/JonDotsoy/asunder.js/raw/develop/doc/assets/images/newresults.png)
