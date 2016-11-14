@@ -1,9 +1,11 @@
 {
   "name": "js-bundler",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.0-beta.0",
   "description": "A method to build a JavaScript master file.",
   "main": "lib/bundler.js",
+  "engine": {
+    "node": ">= 7.0.0"
+  },
   "scripts": {},
   "author": "Jonathan Delgado <hi@jon.soy>",
   "license": "MIT",
