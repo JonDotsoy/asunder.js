@@ -33,4 +33,5 @@ gulp.task("script", () =>
 
 ### NOW
 ![](doc/assets/images/newprogress.png)
+
 ![](doc/assets/images/newresults.png)
