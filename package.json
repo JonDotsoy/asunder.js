@@ -28,5 +28,26 @@
     "through2": "^2.0.1",
     "vinyl": "^2.0.0",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/js-bundler.git"
+  },
+  "keywords": [
+    "babel",
+    "codegen",
+    "compiler",
+    "desugaring",
+    "ecmascript",
+    "gulpplugin",
+    "javascript",
+    "rewriting",
+    "syntax",
+    "transformation",
+    "transpiler"
+  ],
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/js-bundler/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/js-bundler#readme"
 }
