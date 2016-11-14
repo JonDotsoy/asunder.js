@@ -1,6 +1,6 @@
 {
   "name": "asunder.js",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "A method to build a JavaScript master file.",
   "main": "lib/bundler.js",
   "engine": {
@@ -24,10 +24,8 @@
     "babelify": "^7.3.0",
     "browserify": "^13.1.1",
     "debug": "^2.3.2",
-    "gulp-util": "^3.0.7",
     "through2": "^2.0.1",
-    "vinyl": "^2.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl": "^2.0.0"
   },
   "repository": {
     "type": "git",
