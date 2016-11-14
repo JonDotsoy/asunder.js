@@ -1,6 +1,10 @@
 # asunder.js
 A transform to build javascript files in the browser extending all dependencies in other file.
 
+[![npm](https://img.shields.io/npm/v/asunder.js.svg)](https://www.npmjs.com/package/asunder.js)
+[![npm](https://img.shields.io/npm/dt/asunder.js.svg)](https://www.npmjs.com/package/asunder.js)
+[![npm](https://img.shields.io/npm/l/asunder.js.svg)](https://www.npmjs.com/package/asunder.js)
+
 > Inspired on browserify but with all style of Gulp.
 
 ```javascript
