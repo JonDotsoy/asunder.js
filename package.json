@@ -1,7 +1,7 @@
 {
   "name": "asunder.js",
-  "version": "1.0.0-beta.5",
-  "description": "A method to build a JavaScript master file.",
+  "version": "1.0.0-beta.6",
+  "description": "A transform to build javascript files in the browser extending all dependencies in other file.",
   "main": "lib/bundler.js",
   "engine": {
     "node": ">= 7.0.0"
